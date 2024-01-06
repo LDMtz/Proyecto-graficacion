@@ -1,0 +1,99 @@
+C:\Users\PC\Desktop\Codigo\Practicas-Graficacion\Graficacion - Leoncio Martinez\bin\Debug\Graficacion - Leoncio Martinez.exe.config
+C:\Users\PC\Desktop\Codigo\Practicas-Graficacion\Graficacion - Leoncio Martinez\bin\Debug\Graficacion - Leoncio Martinez.exe
+C:\Users\PC\Desktop\Codigo\Practicas-Graficacion\Graficacion - Leoncio Martinez\bin\Debug\Graficacion - Leoncio Martinez.pdb
+C:\Users\PC\Desktop\Codigo\Practicas-Graficacion\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Codigo\Practicas-Graficacion\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Codigo\Practicas-Graficacion\Graficacion - Leoncio Martinez\obj\Debug\Graficacion___Leoncio_Martinez.Properties.Resources.resources
+C:\Users\PC\Desktop\Codigo\Practicas-Graficacion\Graficacion - Leoncio Martinez\obj\Debug\Graficacion___Leoncio_Martinez.VentanaPrincipal.resources
+C:\Users\PC\Desktop\Codigo\Practicas-Graficacion\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Codigo\Practicas-Graficacion\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Codigo\Practicas-Graficacion\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.exe
+C:\Users\PC\Desktop\Codigo\Practicas-Graficacion\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.pdb
+C:\Users\PC ALUMNO\Documents\Graficacion - Leoncio Martinez\bin\Debug\Graficacion - Leoncio Martinez.exe.config
+C:\Users\PC ALUMNO\Documents\Graficacion - Leoncio Martinez\bin\Debug\Graficacion - Leoncio Martinez.exe
+C:\Users\PC ALUMNO\Documents\Graficacion - Leoncio Martinez\bin\Debug\Graficacion - Leoncio Martinez.pdb
+C:\Users\PC ALUMNO\Documents\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.AssemblyReference.cache
+C:\Users\PC ALUMNO\Documents\Graficacion - Leoncio Martinez\obj\Debug\Graficacion___Leoncio_Martinez.Properties.Resources.resources
+C:\Users\PC ALUMNO\Documents\Graficacion - Leoncio Martinez\obj\Debug\Graficacion___Leoncio_Martinez.VentanaPrincipal.resources
+C:\Users\PC ALUMNO\Documents\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.GenerateResource.cache
+C:\Users\PC ALUMNO\Documents\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.CoreCompileInputs.cache
+C:\Users\PC ALUMNO\Documents\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.exe
+C:\Users\PC ALUMNO\Documents\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.pdb
+C:\Users\Alumnos\Desktop\Graficacion - Leoncio Martinez\bin\Debug\Graficacion - Leoncio Martinez.exe.config
+C:\Users\Alumnos\Desktop\Graficacion - Leoncio Martinez\bin\Debug\Graficacion - Leoncio Martinez.exe
+C:\Users\Alumnos\Desktop\Graficacion - Leoncio Martinez\bin\Debug\Graficacion - Leoncio Martinez.pdb
+C:\Users\Alumnos\Desktop\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.AssemblyReference.cache
+C:\Users\Alumnos\Desktop\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumnos\Desktop\Graficacion - Leoncio Martinez\obj\Debug\Graficacion___Leoncio_Martinez.Properties.Resources.resources
+C:\Users\Alumnos\Desktop\Graficacion - Leoncio Martinez\obj\Debug\Graficacion___Leoncio_Martinez.VentanaPrincipal.resources
+C:\Users\Alumnos\Desktop\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.GenerateResource.cache
+C:\Users\Alumnos\Desktop\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.exe
+C:\Users\Alumnos\Desktop\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.pdb
+G:\Graficacion - Leoncio Martinez\bin\Debug\Graficacion - Leoncio Martinez.exe.config
+G:\Graficacion - Leoncio Martinez\bin\Debug\Graficacion - Leoncio Martinez.exe
+G:\Graficacion - Leoncio Martinez\bin\Debug\Graficacion - Leoncio Martinez.pdb
+G:\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.AssemblyReference.cache
+G:\Graficacion - Leoncio Martinez\obj\Debug\Graficacion___Leoncio_Martinez.Properties.Resources.resources
+G:\Graficacion - Leoncio Martinez\obj\Debug\Graficacion___Leoncio_Martinez.VentanaPrincipal.resources
+G:\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.GenerateResource.cache
+G:\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.CoreCompileInputs.cache
+G:\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.exe
+G:\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.pdb
+D:\Graficacion - Leoncio Martinez\bin\Debug\Graficacion - Leoncio Martinez.exe.config
+D:\Graficacion - Leoncio Martinez\bin\Debug\Graficacion - Leoncio Martinez.exe
+D:\Graficacion - Leoncio Martinez\bin\Debug\Graficacion - Leoncio Martinez.pdb
+D:\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.AssemblyReference.cache
+D:\Graficacion - Leoncio Martinez\obj\Debug\Graficacion___Leoncio_Martinez.Properties.Resources.resources
+D:\Graficacion - Leoncio Martinez\obj\Debug\Graficacion___Leoncio_Martinez.VentanaPrincipal.resources
+D:\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.GenerateResource.cache
+D:\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.CoreCompileInputs.cache
+D:\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.exe
+D:\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.pdb
+D:\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Graficacion - Leoncio Martinez\bin\Debug\Graficacion - Leoncio Martinez.exe.config
+C:\Users\PC\Desktop\Graficacion - Leoncio Martinez\bin\Debug\Graficacion - Leoncio Martinez.exe
+C:\Users\PC\Desktop\Graficacion - Leoncio Martinez\bin\Debug\Graficacion - Leoncio Martinez.pdb
+C:\Users\PC\Desktop\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Graficacion - Leoncio Martinez\obj\Debug\Graficacion___Leoncio_Martinez.Properties.Resources.resources
+C:\Users\PC\Desktop\Graficacion - Leoncio Martinez\obj\Debug\Graficacion___Leoncio_Martinez.VentanaPrincipal.resources
+C:\Users\PC\Desktop\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.exe
+C:\Users\PC\Desktop\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.pdb
+C:\Users\PC\Desktop\here\Graficacion - Leoncio Martinez\bin\Debug\Graficacion - Leoncio Martinez.exe.config
+C:\Users\PC\Desktop\here\Graficacion - Leoncio Martinez\bin\Debug\Graficacion - Leoncio Martinez.exe
+C:\Users\PC\Desktop\here\Graficacion - Leoncio Martinez\bin\Debug\Graficacion - Leoncio Martinez.pdb
+C:\Users\PC\Desktop\here\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\here\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\here\Graficacion - Leoncio Martinez\obj\Debug\Graficacion___Leoncio_Martinez.Properties.Resources.resources
+C:\Users\PC\Desktop\here\Graficacion - Leoncio Martinez\obj\Debug\Graficacion___Leoncio_Martinez.VentanaPrincipal.resources
+C:\Users\PC\Desktop\here\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\here\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\here\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.exe
+C:\Users\PC\Desktop\here\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.pdb
+C:\Users\PC\Desktop\COPIA\Graficacion - Leoncio Martinez\bin\Debug\Graficacion - Leoncio Martinez.exe.config
+C:\Users\PC\Desktop\COPIA\Graficacion - Leoncio Martinez\bin\Debug\Graficacion - Leoncio Martinez.exe
+C:\Users\PC\Desktop\COPIA\Graficacion - Leoncio Martinez\bin\Debug\Graficacion - Leoncio Martinez.pdb
+C:\Users\PC\Desktop\COPIA\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\COPIA\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\COPIA\Graficacion - Leoncio Martinez\obj\Debug\Graficacion___Leoncio_Martinez.Properties.Resources.resources
+C:\Users\PC\Desktop\COPIA\Graficacion - Leoncio Martinez\obj\Debug\Graficacion___Leoncio_Martinez.VentanaPrincipal.resources
+C:\Users\PC\Desktop\COPIA\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\COPIA\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\COPIA\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.exe
+C:\Users\PC\Desktop\COPIA\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.pdb
+C:\Users\PC\Desktop\COPIA\Graficacion - Leoncio Martinez\obj\Debug\Graficacion___Leoncio_Martinez.ManualUsuario.resources
+C:\Users\PC\Desktop\TAREAS\SEMESTRE 5\GRAFIACION\Graficacion - Leoncio Martinez\Graficacion - Leoncio Martinez\bin\Debug\Graficacion - Leoncio Martinez.exe.config
+C:\Users\PC\Desktop\TAREAS\SEMESTRE 5\GRAFIACION\Graficacion - Leoncio Martinez\Graficacion - Leoncio Martinez\bin\Debug\Graficacion - Leoncio Martinez.exe
+C:\Users\PC\Desktop\TAREAS\SEMESTRE 5\GRAFIACION\Graficacion - Leoncio Martinez\Graficacion - Leoncio Martinez\bin\Debug\Graficacion - Leoncio Martinez.pdb
+C:\Users\PC\Desktop\TAREAS\SEMESTRE 5\GRAFIACION\Graficacion - Leoncio Martinez\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\TAREAS\SEMESTRE 5\GRAFIACION\Graficacion - Leoncio Martinez\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\TAREAS\SEMESTRE 5\GRAFIACION\Graficacion - Leoncio Martinez\Graficacion - Leoncio Martinez\obj\Debug\Graficacion___Leoncio_Martinez.ManualUsuario.resources
+C:\Users\PC\Desktop\TAREAS\SEMESTRE 5\GRAFIACION\Graficacion - Leoncio Martinez\Graficacion - Leoncio Martinez\obj\Debug\Graficacion___Leoncio_Martinez.Properties.Resources.resources
+C:\Users\PC\Desktop\TAREAS\SEMESTRE 5\GRAFIACION\Graficacion - Leoncio Martinez\Graficacion - Leoncio Martinez\obj\Debug\Graficacion___Leoncio_Martinez.VentanaPrincipal.resources
+C:\Users\PC\Desktop\TAREAS\SEMESTRE 5\GRAFIACION\Graficacion - Leoncio Martinez\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\TAREAS\SEMESTRE 5\GRAFIACION\Graficacion - Leoncio Martinez\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\TAREAS\SEMESTRE 5\GRAFIACION\Graficacion - Leoncio Martinez\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.exe
+C:\Users\PC\Desktop\TAREAS\SEMESTRE 5\GRAFIACION\Graficacion - Leoncio Martinez\Graficacion - Leoncio Martinez\obj\Debug\Graficacion - Leoncio Martinez.pdb

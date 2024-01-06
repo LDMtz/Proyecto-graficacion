@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label14.Text" xml:space="preserve">
+    <value>Dentro de este sistema, se pueden crear varias figuras geometricas, ya sean poligonos regulares o irregulares, además de que puedes interactuar 
+con la interfaz para aplicarles ciertos estilos a las figuras como por ejemplo el color, el tamaño o incluso el estilo de los bordes. Más adelante se 
+esplicará a detalle cada funcionalidad del sistema.
+</value>
+  </data>
+  <data name="label15.Text" xml:space="preserve">
+    <value>                  : Este es la funcion más basica que solo consiste en pintar un pixel en la pantalla, solo con dar click dentro del Lienzo (que es el cuadro 
+blanco)
+
+                    : Al dar click en este boton, activamos la opcion de recta, para dibujarla solo bastar con dibujar dos puntos dentro del lienzo y el sistema
+en automatico se encargará de crear la recta.
+
+                                   Con esté boton del menú podremos crear circunferencias, solo basta con dar un click en el lienzo para generarla, una cosa a
+tener en cuenta es que el sistema ya cuenta con un radio fijo.
+
+                                        Para esta opcion cambian las cosas porque necesitamos ingresar el numero de lados que deseeamos que tenga el poligono
+irregular y posteriormente dibujar los puntos en la pantalla y el sistema automaticamente los une.
+
+                                       Para esta opcion tenemos ciertas figuras preedefinidas como lo son triangulos, cuadrados, pentagonos y hexagonos, pero
+tambien contamos con la posibilidad de ingresar un número de lados para generar figuras con más lados, pero con el mismo tamaño por lado. Y solo
+basta con dar un click en el lienzo para crear la figura.
+
+                      Con este boton tenemos la posibilidad crear las elipses, al igual que la circunferencia solo es necesario dar un click en la patalla y 
+tambien ya tiene un radio preedefinido.
+
+                   Con este botón tenemos la posibilidad de mover la ultima figura dibujada hacia otro lado, solo basta con seleccionarla y dar click en la otra
+parte del lienzo a donde se desea trasladar la figura.
+
+                   Con este botón tenemos la posibilidad de trasladar la ultima figura dibuja, solo basta con seleccionarla y dar click en cualquier parte del
+lienzo para que gire, tiene un angulo de rotacion preedefinido y no es posible cambiarlo mediante la interfaz.
+
+                         Con este botón tenemos la posibildad de incrementar o decrementar el tamaño de la ultima figura dibujada, para esto es necesario dar
+click en "Escalamiento" y seleccionar si queremos incremenar o decrementar, luego de esto damos click en cualquier parte del lienzo para conseguirlo.
+</value>
+  </data>
+  <data name="label25.Text" xml:space="preserve">
+    <value>Contamos con la posibilidad de cambiar los estilos a las líneas de las figuras o de las rectas, tenemos:
+ 1. Linea Recta:
+ 2. Linea Punteada
+ 3. Linea Segmentada
+Solo es cuestion de seleccionar el estilo de la línea antes de dibujar la figura o recta.</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Contamos con la posibilidad de cambiar el color de las lineas, de las figuras o incluso del relleno de las figuras.
+Tenemos 6 colores preestablecidos en los botones que serían de acceso rapido, el cuadro grande de la izquierda
+indica el color actual seleccionado. Y también podemos elegir otro color personalizado desde la paleta de colores
+si así lo deseamos.</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>Contamos con los siguientes botones secundarios:
+ 1. Relleno: Con este botón podemos rellenar alguna figura con el color actual 
+     seleccionado.
+ 2. Vaciar: Con este botón vaciamos todo el lienzo y se borra todo el contenido 
+     dentro de el.
+ 3. Informacion Manual: Con este botón se despliega el manual del usuario.
+ 4. Examen 1: Este botón nos sirve para correr el primer examen que consistia en 
+      unir lineas de distintos estilos y colores. Para esto necesitamos dibujar primero
+      que los puntos y automaticamente se unen.
+ 5. Examen Final: Con este botón tenemos la posibilidad de generar la figura de
+      navidad que se solicito para este examen. La figura es un gorro de navideño, 
+      solo es necesario dar un click al lienzo para que se dibuje, tenemos la posibilidad
+      de trasladarlo, rotarlo y escalarlo.</value>
+  </data>
+</root>
